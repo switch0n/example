@@ -1,2 +1,6 @@
+<<<<<<< Updated upstream
 테스트 파일입니다.
 그렇군요.
+=======
+테스트 파일입니다.
+>>>>>>> Stashed changes
